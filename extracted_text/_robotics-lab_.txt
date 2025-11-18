@@ -1,0 +1,6 @@
+URL: https://nitkkr.ac.in/robotics-lab/
+Title: Robotics Lab – National Institute of Technology, Kurukshetra
+Description: Nitkkr Kurukshetra Nitkkr Kurukshetra
+Word Count: 119
+--------------------------------------------------
+Robotics Lab – National Institute of Technology, Kurukshetra Robotics Lab The industrial robot and emerging cobots–the key player in Industry 4.0 are fast creating a niche for their integration in all verticals of industry and human life. The aim is to prepare skilled manpower ready for placement in the manufacturing and automation industry with enhanced employability. The facilities : Industry grade n-axes robots with assorted reach and low-to-high payload capacity plus use case set-ups. The lab offers : Hands-on learning on the working and testing of industrial robots Design strategy and programming of the robots to perform different tasks Ability to assemble and disassemble of robots To develop projects on real-life industrial problems To conduct research in robotics engineering

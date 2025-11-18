@@ -1,0 +1,6 @@
+URL: https://nitkkr.ac.in/mechatronics-lab/
+Title: Mechatronics Lab – National Institute of Technology, Kurukshetra
+Description: Nitkkr Kurukshetra Nitkkr Kurukshetra
+Word Count: 109
+--------------------------------------------------
+Mechatronics Lab – National Institute of Technology, Kurukshetra Mechatronics Lab Mechatronics is the fundamental building block for pioneering initiatives in multiple engineering disciplines, which are major enablers of Industry 4.0. This lab provides a platform to foster knowledge and working experience of synergistic integration of diverse engineering disciplines amongst the individuals so as to equip them with industry ready skills. The facilities : Advanced mechatronics modular systems and specially compiled SCE packages with Siemens S7-1200. The lab offers : Hands-on learning on working and programming of mechatronics modular systems Troubleshooting with interpretation of process circuit diagrams and datasheets Development of projects and conducting research based on real-time industrial problems

@@ -3,5 +3,5 @@
   "dimension": 384,
   "chunk_size": 120,
   "chunk_overlap": 15,
-  "total_chunks": 300
+  "total_chunks": 9736
 }

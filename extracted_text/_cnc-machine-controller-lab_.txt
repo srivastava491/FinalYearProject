@@ -1,0 +1,6 @@
+URL: https://nitkkr.ac.in/cnc-machine-controller-lab/
+Title: CNC Machine & Controller Lab – National Institute of Technology, Kurukshetra
+Description: Nitkkr Kurukshetra Nitkkr Kurukshetra
+Word Count: 102
+--------------------------------------------------
+CNC Machine & Controller Lab – National Institute of Technology, Kurukshetra CNC Machine & Controller Lab CNC Machine and CNC Controllers play key role in the manufacturing industries to deliver quality products and parts in compliance with the customer demand and industry standards. The facilities : Industry grade multi-axis CNC machines with Siemens controllers (808D-Milling& Turning) and 840 DSL The lab offers : Practical exposure on the industrial CNC Machines and CNC Controller Design of machining and programming strategies to produce quality products Formulate standard CNC programming cycles and optimization Integration of CAM technology Project based learning and R&D on industrial problems

@@ -1,0 +1,6 @@
+URL: https://nitkkr.ac.in/test-and-optimization-lab/
+Title: Test and Optimization Lab – National Institute of Technology, Kurukshetra
+Description: Nitkkr Kurukshetra Nitkkr Kurukshetra
+Word Count: 149
+--------------------------------------------------
+Test and Optimization Lab – National Institute of Technology, Kurukshetra Test and Optimization Lab Electromechanical System analysis is an integral part of Computer Aided Engineering being extensively used in the analysis and design of complex life systems ranging from simple linear static problem to highly complex non-linear transient dynamic problems. This lab provides multi-physics simulation platform having result-oriented features for achieving desired accuracy specifications and reduce the need for physical prototypes in the design process. The facilities : Latest CAE and FEA tools like Simcenter 3D, Simcenter Nastran, Star CCM+ and Simcenter Amesim in addition to the test based engineering solution for a full suite of testing. The lab offers : Capability for modeling and solving all kinds of scientific and engineering problems based on Finite Element Methods Capability to develop multi-physics models that solve coupled physics phenomenon Development of projects and conducting research based on real-time industrial problems

@@ -1,0 +1,6 @@
+URL: https://nitkkr.ac.in/process-instrumentation-lab/
+Title: Process Instrumentation Lab – National Institute of Technology, Kurukshetra
+Description: Nitkkr Kurukshetra Nitkkr Kurukshetra
+Word Count: 140
+--------------------------------------------------
+Process Instrumentation Lab – National Institute of Technology, Kurukshetra Process Instrumentation Lab Process Instrumentation is comprised of the sensors and various instruments to monitor and maintain process control equipments for improved production, product consistency, quality management, and workplace safety in manufacturing and processing facilities. The major focus of the lab is on the application of electronics and associated technology to instrumentation, industrial automation, process control systems and commonly used sensors. The Facilities : SIMATIC PCS 7 V9.0, Totally Integrated Automation Portal and solutions for all levels of industrial automation. The lab offers : Hands-on experience of different processes and their measurements Real time measurement and control of process variables such as levels, flow, pressure, temperature, pH and humidity Project based learning on alarm management, process safety and asset management Forum for research, project development and deployment activities in instrumentation engineering

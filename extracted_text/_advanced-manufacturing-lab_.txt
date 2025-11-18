@@ -1,0 +1,6 @@
+URL: https://nitkkr.ac.in/advanced-manufacturing-lab/
+Title: Advanced Manufacturing Lab – National Institute of Technology, Kurukshetra
+Description: Nitkkr Kurukshetra Nitkkr Kurukshetra
+Word Count: 124
+--------------------------------------------------
+Advanced Manufacturing Lab – National Institute of Technology, Kurukshetra Advanced Manufacturing Lab Digital manufacturing plays the key role for integration of PLM and shop floor applications and equipment, enabling the exchange of product-related information between design and manufacturing groups. The facilities : Siemens advanced Industrial Software packages including Tecnomatix Plant Simulation-15, Tecnomatix Robot Expert-15 and Robcad-11 for simulation with Human Ergonomics (Jack-9), Preactor APS with MSSQL-2012 for advanced planning and Scheduling. The lab offers : Hands-on learning on virtual industrial process and robot handling in manufacturing Facilitates collaboration for a holistic view of product and process design Forum to create, operate and evaluate plant process simulations for efficient process To facilitate and support development of projects on real-time industrial problems in digital manufacturing engineering

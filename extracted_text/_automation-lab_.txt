@@ -1,0 +1,6 @@
+URL: https://nitkkr.ac.in/automation-lab/
+Title: Automation Lab – National Institute of Technology, Kurukshetra
+Description: Nitkkr Kurukshetra Nitkkr Kurukshetra
+Word Count: 114
+--------------------------------------------------
+Automation Lab – National Institute of Technology, Kurukshetra Automation Lab Industrial controllers have become the integral part of digital manufacturing, automated & interconnected production, and providing flexibility to achieve complete factory automation. This lab offers hands-on training on SIMATIC S7 technology/ products and developing industry ready professionals/solution providers. The facilities : Latest/Advanced industrial controllers of Siemens S7-1200,S7-1500, HMI & SCADA using TIA Portal V.15 Software. The lab offers : Hands-on learning on Siemens factory automation products Ability to identify the components of PLC, develop programmes, and enhance the skills on hardware programming and servicing Interface HMI and SCADA with PLC control system via PROFINET To conduct research and provide solutions/consultancy in Industrial Automation Engineering
